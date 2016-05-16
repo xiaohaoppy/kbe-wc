@@ -1,7 +1,7 @@
 ﻿kbe web控制台镜像
 
  
- # 用法
+# 用法
 ## 编译镜像
 ```
 gir clone https://github.com/xiaohaoppy/kbe-wc.git
